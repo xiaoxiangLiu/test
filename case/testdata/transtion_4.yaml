@@ -1,0 +1,8 @@
+﻿number : 4
+transtion_id : 4
+main_currency_id : 2
+target_currency_id : 1
+buy_price : 500000
+buy_num : 10000000
+sell_price : 500000
+sell_num : 10000000

@@ -1,0 +1,9 @@
+mysql_type : 3
+redis_type : 2
+transtion_id : 4
+main_currency_id : 2
+target_currency_id : 1
+buy_price : 100000
+sell_price : 100000
+buy_num : 1000000
+sell_num : 1000000

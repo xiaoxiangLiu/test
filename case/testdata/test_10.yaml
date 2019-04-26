@@ -1,0 +1,5 @@
+mysql_type : 2
+redis_type : 2
+transtion_id : 72
+main_currency_id : 3
+target_currency_id : 30

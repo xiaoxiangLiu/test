@@ -1,0 +1,39 @@
+mysql_type : 2
+redis_type : 2
+transtion_id : 4
+main_currency_id : 2
+target_currency_id : 1
+buy_price :
+  - 20000000000
+  - 25000000000
+  - 30000000000
+  - 35000000000
+  - 40000000000
+buy_num :
+  - 10000000
+  - 20000000
+  - 30000000
+  - 40000000
+  - 50000000
+progre_buy_price : 5000000000
+progre_buy_num : 100000
+end_buy_price : 45000000000
+end_buy_num : 1400000
+progre_num : 4
+sell_price :
+  - 20000000000
+  - 25000000000
+  - 30000000000
+  - 35000000000
+  - 40000000000
+sell_num :
+  - 10000000
+  - 20000000
+  - 30000000
+  - 40000000
+  - 60000000
+progre_sell_price : 5000000000
+progre_sell_num : 100000000
+progre_num : 4
+end_sell_price : 45000000000
+end_sell_num : 600000000

@@ -1,0 +1,35 @@
+base_url : http://192.168.1.123:10002/dididu
+50_base_url : http://192.168.1.50:88/dididu
+135_base_url : http://192.168.1.135:20000/dididu_dev
+7_base_url : http://192.168.1.7:10000/dididu
+login_url : /userLogin.do
+user_balance_and_currency_type : /userBalanceAndCurrencyType.do
+user_balance_details_url : /userBalanceDetails.do
+get_user_balance_servlet_url : /getUserBalanceServlet.do
+order_reservations_url : /orderReservations.do
+sell_order_url : /sellOrder.do
+update_revocation_status_url: /updateRevocationStatus.do
+password : 1ebb51846675cb9802783d6dae3c8c79
+query_present_order_url : /queryPresentOrder.do
+querySuccessTranstion_url : /querySuccessTranstion.do
+
+54_mysql_type : 3
+7_mysql_type : 4
+7_redis_type : 4
+50_mysql_type : 2
+50_redis_type : 2
+mysql_type : 1
+redis_type : 1
+
+user_39 : 39@qq.com
+user_41 : 41@qq.com
+user_42 : 42@qq.com
+user_43 : 43@qq.com
+
+market_user_38 : 38@qq.com
+market_user_40 : 40@qq.com
+
+
+
+
+
