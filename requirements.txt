@@ -46,5 +46,5 @@ six==1.11.0
 SQLAlchemy==1.2.11
 tomorrow==0.2.4
 tornado==5.1.1
-urllib3==1.23
+urllib3==1.24.2
 vine==1.1.4
