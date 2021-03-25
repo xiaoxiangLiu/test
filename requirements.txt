@@ -37,7 +37,7 @@ pytest-metadata==1.7.0
 pytest-rerunfailures==4.2
 python-dotenv==0.9.1
 pytz==2018.6
-PyYAML==3.13
+PyYAML==5.4
 redis==2.10.6
 requests==2.19.1
 requests-toolbelt==0.8.0
